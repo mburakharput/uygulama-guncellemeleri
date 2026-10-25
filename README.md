@@ -6,7 +6,7 @@ MediAsist, Playlist Studio, Kanal-i-zasyon ve Mizansen kurulumları için resmi 
 
 | Uygulama | Sürüm | Kurulum |
 |---|---|---|
-| MediAsist | 2026.10.24.9 | [Setup indir](https://github.com/mburakharput/uygulama-guncellemeleri/releases/download/MediAsist-v2026.10.24.9/MediAsist-2026.10.24.9-Setup-x64.exe) |
+| MediAsist | 10.25.1 | [Setup indir](https://github.com/mburakharput/uygulama-guncellemeleri/releases/download/MediAsist-v2026.10.25.1/MediAsist-2026.10.25.1-Setup-x64.exe) |
 | Playlist Studio | 4.3.4 | [Setup indir](https://github.com/mburakharput/uygulama-guncellemeleri/releases/download/PlaylistStudio-v4.3.4/PlaylistStudio-4.3.4-Setup-x64.exe) |
 | Kanal-i-zasyon | 0.5.8 | [Setup indir](https://github.com/mburakharput/uygulama-guncellemeleri/releases/download/Kanal-i-zasyon-v0.5.8/Kanal-i-zasyon-0.5.8-Setup-x64.exe) |
 | Mizansen | 2026.10.24.4 | [Setup indir](https://github.com/mburakharput/uygulama-guncellemeleri/releases/download/Mizansen-v2026.10.24.4/Mizansen-2026.10.24.4-Setup-x64.exe) |
