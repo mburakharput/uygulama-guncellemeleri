@@ -6,6 +6,7 @@ MediAsist, Playlist Studio, Kanal-i-zasyon ve Mizansen kurulumları için resmi 
 
 | Uygulama | Sürüm | Kurulum |
 |---|---|---|
+| Öğretmen Asistanı | 1.0.0 | [Setup indir](https://github.com/mburakharput/uygulama-guncellemeleri/releases/download/OgretmenAsistani-v1.0.0/OgretmenAsistani-1.0.0-Setup-x64.exe) |
 | MediAsist | 10.25.2 | [Setup indir](https://github.com/mburakharput/uygulama-guncellemeleri/releases/download/MediAsist-v2026.10.25.2/MediAsist-2026.10.25.2-Setup-x64.exe) |
 | Playlist Studio | 4.3.4 | [Setup indir](https://github.com/mburakharput/uygulama-guncellemeleri/releases/download/PlaylistStudio-v4.3.4/PlaylistStudio-4.3.4-Setup-x64.exe) |
 | Kanal-i-zasyon | 0.5.8 | [Setup indir](https://github.com/mburakharput/uygulama-guncellemeleri/releases/download/Kanal-i-zasyon-v0.5.8/Kanal-i-zasyon-0.5.8-Setup-x64.exe) |
